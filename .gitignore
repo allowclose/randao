@@ -1,0 +1,16 @@
+environments
+
+!environments/**/config.json
+
+build/
+
+data/
+
+geth-test/out.log.geth
+geth-test/data/
+!geth-test/data/keystore/*.*
+
+out.log.geth
+
+node_modules/
+.idea/
